@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Traditian";
+  src: url("public/Traditian.ttf");
+}
+
+.encabezado {
+  border-top: 20px solid #a1110c;
+  background-color: #1a1a1a;
+}
+
+.tamLogo {
+  width: 90px;
+}
+
+.colorJubilus {
+  color: #ffffff;
+  font-family: Traditian, Arial;
+  font-size: 45px;
+}
+
+.colorJubilus:hover {
+  color: #d4d4d4;
+}
