@@ -9,7 +9,7 @@ function App() {
       <header className="navbar navbar-expand-lg encabezado">
         <div className="container-fluid">
 
-          <img className="tamLogo" src="public/jubilus.ico" alt="logo"/>
+          <img className="tamLogo" src="./jubilus.ico" alt="logo"/>
 
           <h1 className="colorJubilus">
               JuBILuS
