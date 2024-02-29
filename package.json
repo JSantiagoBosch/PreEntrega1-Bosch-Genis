@@ -2,6 +2,7 @@
   "name": "pre-entrega1",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://JSantiagoBosch.github.io/PreEntrega1-Bosch-Genis/build",
   "type": "module",
   "scripts": {
     "dev": "vite",
